@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joaquín Pérez Coria.
 
-![Welcome Banner](https://www.canva.com/design/DAGc9QiAz1Q/NCFpr-QMt7Z59suX6t8P9g/view?utm_content=DAGc9QiAz1Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbaa8ac5bd)
+![Welcome Banner](https://i.ibb.co/2j43wx0/Coffe.png)
 
 ## About Me  
 
