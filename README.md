@@ -25,8 +25,8 @@
 
 ## GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clissic&show_icons=true&theme=radical)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=clissic&left_color=green&right_color=red)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clissic&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clissic)](https://github.com/clissic)
 
 ## Featured Projects  
 
