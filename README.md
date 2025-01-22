@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joaquín Pérez Coria.
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+my+GitHub+Profile)  
+![Welcome Banner](https://via.placeholder.com/800x200/282C34/FFFFFF?text=Welcome+to+my+GitHub+Profile!)
 
 ## About Me  
 
