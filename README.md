@@ -17,7 +17,7 @@
 ### Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Passport](https://img.shields.io/badge/-Passport-34E27A?style=flat-square&logo=passport&logoColor=white) ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logoColor=white) ![Nodemailer](https://img.shields.io/badge/-Nodemailer-339933?style=flat-square&logoColor=white) ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white) ![JWT](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat-square&logo=json-web-tokens&logoColor=white)  
 
-### Data Bases  
+### Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)  
 
 ### DevOps & Tools  
