@@ -25,13 +25,13 @@
 
 ## GitHub Stats & Languages Info  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clissic&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clissic&theme=radical)](https://github.com/clissic) |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![GitHub Stats](https://readme-stats-fast.vercel.app/api?username=clissic&show_icons=true&theme=radical) | [![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs?username=clissic&theme=radical)](https://github.com/clissic) |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clissic&repo=latias-front&theme=radical)](https://github.com/clissic/latias-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clissic&repo=SIGMU&theme=radical)](https://github.com/clissic/SIGMU)
+[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=clissic&repo=latias-front&theme=radical)](https://github.com/clissic/latias-front)  
+[![Readme Card](https://readme-stats-fast.vercel.app/api/pin/?username=clissic&repo=SIGMU&theme=radical)](https://github.com/clissic/SIGMU)
 
 - [**LATIAS**](https://github.com/clissic/latias-front): Latias Academy is my first ever StartUp. The idea of Latias is to bring nautical education to your desk.  
 - [**SIGMU**](https://github.com/clissic/SIGMU): SIGMU is a private DB management for vehicles fines made for the Uruguayan Coast Guard.  
