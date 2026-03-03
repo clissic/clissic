@@ -7,7 +7,7 @@
 - 🌍 **Location:** Montevideo, Uruguay  
 - 🏢 **Profession:** Web Developer and Officer in the Navy  
 - 🎮 **Hobbies:** Gaming and programming  
-- 🚀 **2025 Goal:** Launch a tech startup and escape the matrix  
+- 🚀 **2026 Goal:** Launch a tech startup and escape the matrix  
 
 ## Technologies & Tools  
 
